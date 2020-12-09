@@ -3,3 +3,4 @@
 [About](https://sfrench01.github.io/CopywritingTales/about.html)
 
 ![image](https://user-images.githubusercontent.com/60854989/101670113-669b1e00-3a18-11eb-822c-853d84ff6496.png)
+[Likedin](<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>)

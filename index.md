@@ -1,2 +1,2 @@
 # Skyla's copywriting dreams of success!
-[blog-page](https://sfrench01.github.io/CopywritingTales/blog.html)
+[Blog](https://sfrench01.github.io/CopywritingTales/blog.html)

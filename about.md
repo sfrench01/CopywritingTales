@@ -2,4 +2,4 @@
 [Blog](https://sfrench01.github.io/CopywritingTales/blog.html)
 [About](https://sfrench01.github.io/CopywritingTales/about.html)
 
-![image](https://github.com/sfrench01/CopywritingTales/issues/4#issue-760560290)
+![image](https://user-images.githubusercontent.com/60854989/101670113-669b1e00-3a18-11eb-822c-853d84ff6496.png)

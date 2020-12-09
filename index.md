@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+#Copywriting Tales
+##My introduction to Copy
+###Skyla French
 
-You can use the [editor on GitHub](https://github.com/sfrench01/CopywritingTales/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome one and welcome all! Today I will be sharing my personal introduction to Copy, and how it turned my life around. It was just a few months ago when I had just gotten my second job at an amazing company, surrounded by literally some of the most powerful women I have ever met.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+They really changed my life around.
 
-### Markdown
+Everything was going great as an 18-year-old trying to finish out high school. I had my second job after having no work for more than half a year, my mental health was improving greatly because of where I worked, and I was growing into an adult, who had no clue as to what she wanted to do for a career.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+And then COVID-19 hit. The company I worked at shut down and I wasn't necessarily fired, it was more so that I wasn't getting any hours. I then received one last paycheck from them that matched my previous paycheck.
 
-```markdown
-Syntax highlighted code block
+So of course I have no clue if that company was going to reopen so I started to look for any "work from home" jobs. Most of them were either playing sketchy video games or writing a best selling novel. I knew that expecting to write a best selling novel on the first try in one go would be unrealistic, no matter how appealing the idea was to me.
 
-# Header 1
-## Header 2
-### Header 3
+One night I was scrolling through YouTube and I came across an ad that interrupted my video about "Copywriting". The commercial was just this random person talking about how much money you could be making at home, or something along those lines. And I was a little curious, it was just a link to another YouTube channel and so I was thinking something along the lines of "why not?"
 
-- Bulleted
-- List
+I honestly could not believe what I was watching. I mean, Copywriting? what is that? Well, this random guy was a Copywriter and he was selling the job Copywriting to me.
 
-1. Numbered
-2. List
+_Selling with words_
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sfrench01/CopywritingTales/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+That is literally all Copy is, being able to sell a product with just _your words_.
+Any advertisement you've seen, that's Copy any slogan, white papers, research, anything that is written, that's Copy

@@ -1,4 +1,4 @@
-# Copywriting Tales
+# **Copywriting Tales**
 ## My introduction to Copy
 ### Skyla French
 

@@ -14,7 +14,7 @@ So of course I have no clue if that company was going to reopen so I started to 
 
 One night I was scrolling through YouTube and I came across an ad that interrupted my video about "Copywriting". The commercial was just this random person talking about how much money you could be making at home, or something along those lines. And I was a little curious, it was just a link to another YouTube channel and so I was thinking something along the lines of "why not?"
 
-I honestly could not believe what I was watching. I mean, Copywriting? what is that? Well, this random guy was a Copywriter and he was selling the job Copywriting to me.
+I honestly could not believe what I was watching. I mean, Copywriting? what is that? Well, this random guy was a Copywriter, Neville Medhora, and he was selling the job Copywriting to me.
 
 _Selling with words_
 

@@ -1,5 +1,6 @@
-# **Copywriting Tales**
-## My introduction to Copy
+[Home](https://sfrench01.github.io/CopywritingTales/index.html)
+
+# My introduction to Copy
 ### Skyla French
 
 Welcome one and welcome all! Today I will be sharing my personal introduction to Copy, and how it turned my life around. It was just a few months ago when I had just gotten my second job at an amazing company, surrounded by literally some of the most powerful women I have ever met.

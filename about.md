@@ -8,4 +8,4 @@
 
 **Email:** french.a.s32@gmail.com
 
-**Linkedin Profile:** [Skyla French]{https://www.linkedin.com/in/skyla-french-32a636199/}
+**Linkedin Profile:** [Skyla French](https://www.linkedin.com/in/skyla-french-32a636199/)
